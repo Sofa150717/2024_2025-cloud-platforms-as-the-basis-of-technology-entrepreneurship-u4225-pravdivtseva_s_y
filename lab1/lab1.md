@@ -19,24 +19,24 @@ Date of finished: 25.09.2024
 
 
 У меня все успешно получилось.
-1) Я создала service account c ролью Storage Admin
+Я создала service account c ролью Storage Admin
 
 ![2./2.jpg](/lab1/2.png)  
 
-2) Потом создала compute engine (виртуальную машину)
+Потом создала compute engine (виртуальную машину)
 
 ![3./3.jpg](/lab1/3.png) 
 
-3) С помощью утилиты gstutils нашла бакет lab1-bucket-itmo b cкопировала 3 файла в локальную папку на VM.
+С помощью утилиты gstutils нашла бакет lab1-bucket-itmo b cкопировала 3 файла в локальную папку на VM.
 
 ![1./1.jpg](/lab1/1.png)   
 
-4) Поменяла права доступа моего Service Account с Storage Admin на Compute Viewer
+Поменяла права доступа моего Service Account с Storage Admin на Compute Viewer
 
 ![4./4.jpg](/lab1/4.png)      
 
   
-6) Удалила за собой данные 
+Удалила за собой данные 
 
 
 
